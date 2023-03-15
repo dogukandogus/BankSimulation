@@ -1,0 +1,17 @@
+C:\Users\dogus\OneDrive\Masaüstü\VS\BABank\BABank\bin\Debug\net6.0-windows\BABank.exe
+C:\Users\dogus\OneDrive\Masaüstü\VS\BABank\BABank\bin\Debug\net6.0-windows\BABank.deps.json
+C:\Users\dogus\OneDrive\Masaüstü\VS\BABank\BABank\bin\Debug\net6.0-windows\BABank.runtimeconfig.json
+C:\Users\dogus\OneDrive\Masaüstü\VS\BABank\BABank\bin\Debug\net6.0-windows\BABank.dll
+C:\Users\dogus\OneDrive\Masaüstü\VS\BABank\BABank\bin\Debug\net6.0-windows\BABank.pdb
+C:\Users\dogus\OneDrive\Masaüstü\VS\BABank\BABank\obj\Debug\net6.0-windows\BABank.csproj.AssemblyReference.cache
+C:\Users\dogus\OneDrive\Masaüstü\VS\BABank\BABank\obj\Debug\net6.0-windows\BABank.Form1.resources
+C:\Users\dogus\OneDrive\Masaüstü\VS\BABank\BABank\obj\Debug\net6.0-windows\BABank.csproj.GenerateResource.cache
+C:\Users\dogus\OneDrive\Masaüstü\VS\BABank\BABank\obj\Debug\net6.0-windows\BABank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dogus\OneDrive\Masaüstü\VS\BABank\BABank\obj\Debug\net6.0-windows\BABank.AssemblyInfoInputs.cache
+C:\Users\dogus\OneDrive\Masaüstü\VS\BABank\BABank\obj\Debug\net6.0-windows\BABank.AssemblyInfo.cs
+C:\Users\dogus\OneDrive\Masaüstü\VS\BABank\BABank\obj\Debug\net6.0-windows\BABank.csproj.CoreCompileInputs.cache
+C:\Users\dogus\OneDrive\Masaüstü\VS\BABank\BABank\obj\Debug\net6.0-windows\BABank.dll
+C:\Users\dogus\OneDrive\Masaüstü\VS\BABank\BABank\obj\Debug\net6.0-windows\refint\BABank.dll
+C:\Users\dogus\OneDrive\Masaüstü\VS\BABank\BABank\obj\Debug\net6.0-windows\BABank.pdb
+C:\Users\dogus\OneDrive\Masaüstü\VS\BABank\BABank\obj\Debug\net6.0-windows\BABank.genruntimeconfig.cache
+C:\Users\dogus\OneDrive\Masaüstü\VS\BABank\BABank\obj\Debug\net6.0-windows\ref\BABank.dll
